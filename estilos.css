@@ -1,0 +1,48 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: white; 
+    margin: 0;
+    padding: 20px;
+}
+
+.post {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px black; 
+    max-width: 600px; 
+    margin: auto; 
+    overflow: hidden; 
+}
+
+.encabezado {
+    padding: 15px;
+    border-bottom: 1px solid white; 
+}
+
+.encabezado h1 {
+    font-size: 24px;
+    margin: 0;
+}
+
+.encabezado p {
+    color: gray; 
+    margin: 5px 0;
+}
+
+.img-post {
+    text-align: center;
+}
+
+.img-post img {
+    width: 100%;
+    border-top-left-radius: 8px; 
+    border-top-right-radius: 8px; 
+}
+
+.contenido {
+    padding: 15px;
+}
+
+
+
+
